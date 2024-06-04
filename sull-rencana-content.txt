@@ -1,11 +1,11 @@
 RENCANA KONTEN SULL
 
 - Laravel
- + Belajar PHP
 - Node js
+ + Belajar Class
 - React Js
+ + Belajar Git hub
 - Javascipt
 - PHP
- + Belajar Menyatukan Data Mysql
 - Interview
 - Python
