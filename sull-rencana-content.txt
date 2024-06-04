@@ -4,7 +4,7 @@ RENCANA KONTEN SULL
 - Node js
  + Belajar Asyn
 - React Js
- + Belajar Git
+ + Belajar Git hub
 - Javascipt
 - PHP
 - Interview
