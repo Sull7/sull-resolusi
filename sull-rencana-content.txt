@@ -2,7 +2,9 @@ RENCANA KONTEN SULL
 
 - Laravel
 - Node js
+ + Belajar Asyn
 - React Js
+ + Belajar Git
 - Javascipt
 - PHP
 - Interview
