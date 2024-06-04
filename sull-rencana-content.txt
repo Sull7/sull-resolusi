@@ -1,5 +1,7 @@
 RENCANA KONTEN SULL
 
+- Laravel
+- Node js
 - Javascipt
 - PHP
 - Interview
