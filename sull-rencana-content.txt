@@ -1,0 +1,6 @@
+RENCANA KONTEN SULL
+
+- Javascipt
+- PHP
+- Interview
+- Python
