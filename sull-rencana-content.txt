@@ -2,7 +2,7 @@ RENCANA KONTEN SULL
 
 - Laravel
 - Node js
- + Belajar Class
+ + Belajar Asyn
 - React Js
  + Belajar Git hub
 - Javascipt
